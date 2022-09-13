@@ -22,7 +22,7 @@
 >
 > Support D2r English Game client and items log 
 
-###System Requirements
+### System Requirements
 
 > Microsoft Windows10 older than build 1909
 > VC+  patch
@@ -71,7 +71,7 @@
 >
 > 
 
-###Potion types for belt columns
+### Potion types for belt columns
 
 > 1 2 3 4  vs red/blue/blue/big pure 
 
