@@ -103,7 +103,7 @@
 
 > set it on bot client UI
 
-###Support Crafted items
+### Support Crafted items
 
 > Crafted ammy rings and others
 
@@ -119,15 +119,15 @@
 
 >  double click Character name at pineapple bot clients
 
-#DB Bot Installation Guide
+# DB Bot Installation Guide
 
-##Our Site
+## Our Site
 
 > DB Bot For Sales
 >
 > https://www.d2bin.com
 
-##Our Discord Channel
+## Our Discord Channel
 
 > Join our Channel D2r Assistance:
 >
@@ -135,15 +135,15 @@
 >
 > Discord ID: cnlinux#0323
 
-##Tutorial
+## Tutorial
 
-###DB Bot Features 
+### DB Bot Features 
 
 > Support Solo Auto-Leveling and Auto-Equip
 >
 > Support D2r English Game client and items log 
 
-###System Requirements
+### System Requirements
 
 > Microsoft Windows10 older than build 1909
 >
@@ -173,7 +173,7 @@
 
 ### DB Bot Settings
 
-####Launch day.exe with admin
+#### Launch day.exe with admin
 
 > ![day_admin](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202209120412594.PNG)
 
@@ -201,11 +201,11 @@
 
 > ![db_client_basic_config](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202209130026959.png)
 
-####Pause Bots
+#### Pause Bots
 
 > ![db_client_pause](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202209120429576.png)
 
-####Resume Bots
+#### Resume Bots
 
 > ![db_client_start](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202209120421622.png)
 
